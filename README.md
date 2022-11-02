@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhananjai14
-- 👀 I’m interested in Data Science,  Data Engineering, Data Analytics, 
-- 🌱 I’m currently learning R, Python
+- 👀 I’m interested in Data Science, Machine Learning, 
+- 🌱 I’m currently learning Deep Learining 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dhananjai.eee@gmail.com
 
